@@ -1,0 +1,17 @@
+C:\KIK\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net7.0\CleanArchitecture.Presentation.deps.json
+C:\KIK\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net7.0\CleanArchitecture.Presentation.dll
+C:\KIK\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net7.0\CleanArchitecture.Presentation.pdb
+C:\KIK\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net7.0\CleanArchitecture.Presentation.csproj.AssemblyReference.cache
+C:\KIK\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net7.0\CleanArchitecture.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\KIK\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net7.0\CleanArchitecture.Presentation.AssemblyInfoInputs.cache
+C:\KIK\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net7.0\CleanArchitecture.Presentation.AssemblyInfo.cs
+C:\KIK\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net7.0\CleanArchitecture.Presentation.csproj.CoreCompileInputs.cache
+C:\KIK\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net7.0\CleanArchitecture.Presentation.dll
+C:\KIK\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net7.0\refint\CleanArchitecture.Presentation.dll
+C:\KIK\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net7.0\CleanArchitecture.Presentation.pdb
+C:\KIK\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net7.0\ref\CleanArchitecture.Presentation.dll
+C:\KIK\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net7.0\CleanArchitecture.Application.dll
+C:\KIK\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net7.0\CleanArchitecture.Domain.dll
+C:\KIK\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net7.0\CleanArchitecture.Application.pdb
+C:\KIK\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net7.0\CleanArchitecture.Domain.pdb
+C:\KIK\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net7.0\CleanArchitecture.Presentation.csproj.CopyComplete

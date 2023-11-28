@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Kr00DLwwX0FpV1VWlu7h2bjdGZwtlBaq1hAVytGxFWU=",
+  "Source": "QuizServer.WebApi",
+  "BasePath": "_content/QuizServer.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

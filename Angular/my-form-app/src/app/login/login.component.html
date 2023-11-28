@@ -1,0 +1,49 @@
+<div
+  class="d-flex justify-content-center align-items-center"
+  style="height: 100vh"
+>
+  <div class="col-xl-5 col-md-6 col-sm-8 col-12">
+    <div class="card">
+      <div class="card-header">
+        <h1>Login Page</h1>
+      </div>
+      <div class="card-body">
+        <form #loginForm="ngForm" autocomplete="off" formValidate>
+          <div class="form-group">
+            <label for="userNameOrEmail">User Name Or Email</label>
+            <input
+              type="text"
+              required
+              minlength="3"
+              name="userNameOrEmail"
+              [(ngModel)]="login.userNameOrEmail"             
+              class="form-control"              
+            />
+            <div class="invalid-feedback">
+                Please enter valid username or email
+            </div>
+          </div>
+          <div class="form-group mt-1">
+            <label for="password">Password</label>
+            <input
+              type="password"
+              required
+              minlength="6"
+              name="password"
+              [(ngModel)]="login.password"              
+              class="form-control"
+            />
+            <div class="invalid-feedback">
+              Please enter a valid password
+            </div>
+          </div>
+          <div class="form-group mt-1">
+            <button type="submit" (click)="signIn(loginForm)" class="btn btn-success w-100">
+              Sign In
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

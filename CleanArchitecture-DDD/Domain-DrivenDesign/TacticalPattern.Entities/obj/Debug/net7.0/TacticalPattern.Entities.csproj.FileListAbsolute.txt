@@ -1,0 +1,11 @@
+C:\KIK-CleanArchitecture-DDD\Domain-DrivenDesign\TacticalPattern.Entities\bin\Debug\net7.0\TacticalPattern.Entities.deps.json
+C:\KIK-CleanArchitecture-DDD\Domain-DrivenDesign\TacticalPattern.Entities\bin\Debug\net7.0\TacticalPattern.Entities.dll
+C:\KIK-CleanArchitecture-DDD\Domain-DrivenDesign\TacticalPattern.Entities\bin\Debug\net7.0\TacticalPattern.Entities.pdb
+C:\KIK-CleanArchitecture-DDD\Domain-DrivenDesign\TacticalPattern.Entities\obj\Debug\net7.0\TacticalPattern.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\KIK-CleanArchitecture-DDD\Domain-DrivenDesign\TacticalPattern.Entities\obj\Debug\net7.0\TacticalPattern.Entities.AssemblyInfoInputs.cache
+C:\KIK-CleanArchitecture-DDD\Domain-DrivenDesign\TacticalPattern.Entities\obj\Debug\net7.0\TacticalPattern.Entities.AssemblyInfo.cs
+C:\KIK-CleanArchitecture-DDD\Domain-DrivenDesign\TacticalPattern.Entities\obj\Debug\net7.0\TacticalPattern.Entities.csproj.CoreCompileInputs.cache
+C:\KIK-CleanArchitecture-DDD\Domain-DrivenDesign\TacticalPattern.Entities\obj\Debug\net7.0\TacticalPattern.Entities.dll
+C:\KIK-CleanArchitecture-DDD\Domain-DrivenDesign\TacticalPattern.Entities\obj\Debug\net7.0\refint\TacticalPattern.Entities.dll
+C:\KIK-CleanArchitecture-DDD\Domain-DrivenDesign\TacticalPattern.Entities\obj\Debug\net7.0\TacticalPattern.Entities.pdb
+C:\KIK-CleanArchitecture-DDD\Domain-DrivenDesign\TacticalPattern.Entities\obj\Debug\net7.0\ref\TacticalPattern.Entities.dll

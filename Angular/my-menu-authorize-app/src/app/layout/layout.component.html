@@ -1,0 +1,64 @@
+<!-- <nav>
+    <h1>Logo</h1>
+    <ul>
+        <ng-container *ngFor="let m of menus">
+            <ng-container *ngIf="m.isHaveChild == false">
+                <li routerLink="{{m.path}}" [title]="m.title">
+                    {{m.name}}
+                    <i [ngClass]="m.icon"></i>
+                </li>  
+            </ng-container>
+            <ng-container *ngIf="m.isHaveChild == true">
+                <li [title]="m.title">
+                    {{m.name}}
+                    <i [ngClass]="m.icon"></i>
+                    <ul>
+                        <ng-container *ngFor="let cm of m.childRoutes">
+                            <ng-container *ngIf="cm.isHaveChild == false">
+                                <li routerLink="{{cm.path}}" [title]="m.title">
+                                    {{cm.name}}
+                                    <i [ngClass]="cm.icon"></i>
+                                </li>  
+                            </ng-container>
+                            <ng-container *ngIf="m.isHaveChild == true">
+                                <li [title]="m.title">
+                                    {{m.name}}
+                                    <i [ngClass]="m.icon"></i>
+                                    <ul>
+                                        <ng-container *ngFor="let cm2 of cm.childRoutes">
+                                            <ng-container *ngIf="cm2.isHaveChild == false">
+                                                <li routerLink="{{cm2.path}}" [title]="m.title">
+                                                    {{cm2.name}}
+                                                    <i [ngClass]="cm2.icon"></i>
+                                                </li>  
+                                            </ng-container>
+                                        </ng-container>
+                                    </ul>
+                                </li>  
+                            </ng-container>
+                        </ng-container>
+                    </ul>
+                </li>  
+            </ng-container>
+
+        </ng-container>
+              
+    </ul>
+</nav>
+
+<router-outlet></router-outlet> -->
+
+<nav>
+    <h1>Logo</h1>
+    <ul>
+        <ng-container *ngFor="let m of menus">
+            <ng-container *ngIf="m.isAuthorize">
+                <menu-item 
+                    [menu]="m">
+                </menu-item>
+            </ng-container>
+        </ng-container>
+    </ul>
+</nav>
+
+<router-outlet></router-outlet>

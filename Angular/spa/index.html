@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <nav>
+        <h1>Logo</h1>
+        <ul>
+            <li onclick="gotoHome()">Ana Sayfa</li>
+            <li onclick="gotoAbout()">Hakkımda</li>
+            <li onclick="gotoContact()">İletişim</li>
+        </ul>
+    </nav>
+
+    <app-root></app-root>
+
+    <script>
+        function gotoHome(){
+            document.querySelector("app-root").innerHTML = "<h1>Ana Sayfa"
+        }
+
+        function gotoAbout(){
+            fetch("./about.html")
+            .then(res=> res.text())
+            .then(data=>  document.querySelector("app-root").innerHTML = data)
+           
+        }
+
+        function gotoContact(){
+            document.querySelector("app-root").innerHTML = "<h1>İletişim Sayfası"
+        }
+    </script>
+</body>
+</html>

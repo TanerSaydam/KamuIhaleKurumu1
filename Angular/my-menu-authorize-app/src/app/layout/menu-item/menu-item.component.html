@@ -1,0 +1,18 @@
+<!-- menu-item.component.html -->
+<li *ngIf="!menu.isHaveChild" routerLink="{{menu.path}}" [title]="menu.title">
+    {{menu.name}}
+    <i [ngClass]="menu.icon"></i>
+</li>
+<li *ngIf="menu.isHaveChild" [title]="menu.title">
+    {{menu.name}}
+    <i [ngClass]="menu.icon"></i>
+    <ul>
+        <ng-container *ngFor="let child of menu.childRoutes">
+            <ng-container *ngIf="child.isAuthorize">
+                <menu-item
+                 [menu]="child">                    
+                </menu-item>
+            </ng-container>
+        </ng-container>
+    </ul>
+</li>

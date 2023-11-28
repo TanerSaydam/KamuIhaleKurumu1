@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <button onclick="apiIstegi()">Api İsteği Yap</button>
+
+    <script>
+        
+        function apiIstegi(){
+            fetch("http://localhost:5138/api/Values/Add",{
+                body: {},
+                method: "POST"
+            })
+            .then(res=> res.json())
+            .then(res=>{
+                console.log(res)
+            });
+
+            axios.post("http://localhost:5138/api/Values/GetAll",{}).then(res=>{
+                console.log(res)
+            });
+
+            $.ajax({
+                Method: "",
+                Data: "",
+                success: ()=> {
+                    
+                }
+            })
+        }
+    </script>
+</body>
+</html>

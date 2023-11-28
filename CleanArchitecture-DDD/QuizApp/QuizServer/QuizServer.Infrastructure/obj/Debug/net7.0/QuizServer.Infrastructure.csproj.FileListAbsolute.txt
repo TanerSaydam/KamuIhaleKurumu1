@@ -1,0 +1,17 @@
+C:\KIK-CleanArchitecture-DDD\QuizApp\QuizServer\QuizServer.Infrastructure\bin\Debug\net7.0\QuizServer.Infrastructure.deps.json
+C:\KIK-CleanArchitecture-DDD\QuizApp\QuizServer\QuizServer.Infrastructure\bin\Debug\net7.0\QuizServer.Infrastructure.runtimeconfig.json
+C:\KIK-CleanArchitecture-DDD\QuizApp\QuizServer\QuizServer.Infrastructure\bin\Debug\net7.0\QuizServer.Infrastructure.dll
+C:\KIK-CleanArchitecture-DDD\QuizApp\QuizServer\QuizServer.Infrastructure\bin\Debug\net7.0\QuizServer.Infrastructure.pdb
+C:\KIK-CleanArchitecture-DDD\QuizApp\QuizServer\QuizServer.Infrastructure\bin\Debug\net7.0\QuizServer.Domain.dll
+C:\KIK-CleanArchitecture-DDD\QuizApp\QuizServer\QuizServer.Infrastructure\bin\Debug\net7.0\QuizServer.Domain.pdb
+C:\KIK-CleanArchitecture-DDD\QuizApp\QuizServer\QuizServer.Infrastructure\obj\Debug\net7.0\QuizServer.Infrastructure.csproj.AssemblyReference.cache
+C:\KIK-CleanArchitecture-DDD\QuizApp\QuizServer\QuizServer.Infrastructure\obj\Debug\net7.0\QuizServer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\KIK-CleanArchitecture-DDD\QuizApp\QuizServer\QuizServer.Infrastructure\obj\Debug\net7.0\QuizServer.Infrastructure.AssemblyInfoInputs.cache
+C:\KIK-CleanArchitecture-DDD\QuizApp\QuizServer\QuizServer.Infrastructure\obj\Debug\net7.0\QuizServer.Infrastructure.AssemblyInfo.cs
+C:\KIK-CleanArchitecture-DDD\QuizApp\QuizServer\QuizServer.Infrastructure\obj\Debug\net7.0\QuizServer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\KIK-CleanArchitecture-DDD\QuizApp\QuizServer\QuizServer.Infrastructure\obj\Debug\net7.0\QuizServer.Infrastructure.csproj.CopyComplete
+C:\KIK-CleanArchitecture-DDD\QuizApp\QuizServer\QuizServer.Infrastructure\obj\Debug\net7.0\QuizServer.Infrastructure.dll
+C:\KIK-CleanArchitecture-DDD\QuizApp\QuizServer\QuizServer.Infrastructure\obj\Debug\net7.0\refint\QuizServer.Infrastructure.dll
+C:\KIK-CleanArchitecture-DDD\QuizApp\QuizServer\QuizServer.Infrastructure\obj\Debug\net7.0\QuizServer.Infrastructure.pdb
+C:\KIK-CleanArchitecture-DDD\QuizApp\QuizServer\QuizServer.Infrastructure\obj\Debug\net7.0\QuizServer.Infrastructure.genruntimeconfig.cache
+C:\KIK-CleanArchitecture-DDD\QuizApp\QuizServer\QuizServer.Infrastructure\obj\Debug\net7.0\ref\QuizServer.Infrastructure.dll

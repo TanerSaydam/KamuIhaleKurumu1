@@ -1,0 +1,15 @@
+C:\KIK-CleanArchitecture-DDD\CleanArchitectureApp\CleanArchitectureApp.Application\bin\Debug\net7.0\CleanArchitectureApp.Application.deps.json
+C:\KIK-CleanArchitecture-DDD\CleanArchitectureApp\CleanArchitectureApp.Application\bin\Debug\net7.0\CleanArchitectureApp.Application.dll
+C:\KIK-CleanArchitecture-DDD\CleanArchitectureApp\CleanArchitectureApp.Application\bin\Debug\net7.0\CleanArchitectureApp.Application.pdb
+C:\KIK-CleanArchitecture-DDD\CleanArchitectureApp\CleanArchitectureApp.Application\bin\Debug\net7.0\CleanArchitectureApp.Domain.dll
+C:\KIK-CleanArchitecture-DDD\CleanArchitectureApp\CleanArchitectureApp.Application\bin\Debug\net7.0\CleanArchitectureApp.Domain.pdb
+C:\KIK-CleanArchitecture-DDD\CleanArchitectureApp\CleanArchitectureApp.Application\obj\Debug\net7.0\CleanArchitectureApp.Application.csproj.AssemblyReference.cache
+C:\KIK-CleanArchitecture-DDD\CleanArchitectureApp\CleanArchitectureApp.Application\obj\Debug\net7.0\CleanArchitectureApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\KIK-CleanArchitecture-DDD\CleanArchitectureApp\CleanArchitectureApp.Application\obj\Debug\net7.0\CleanArchitectureApp.Application.AssemblyInfoInputs.cache
+C:\KIK-CleanArchitecture-DDD\CleanArchitectureApp\CleanArchitectureApp.Application\obj\Debug\net7.0\CleanArchitectureApp.Application.AssemblyInfo.cs
+C:\KIK-CleanArchitecture-DDD\CleanArchitectureApp\CleanArchitectureApp.Application\obj\Debug\net7.0\CleanArchitectureApp.Application.csproj.CoreCompileInputs.cache
+C:\KIK-CleanArchitecture-DDD\CleanArchitectureApp\CleanArchitectureApp.Application\obj\Debug\net7.0\CleanArchitectureApp.Application.csproj.CopyComplete
+C:\KIK-CleanArchitecture-DDD\CleanArchitectureApp\CleanArchitectureApp.Application\obj\Debug\net7.0\CleanArchitectureApp.Application.dll
+C:\KIK-CleanArchitecture-DDD\CleanArchitectureApp\CleanArchitectureApp.Application\obj\Debug\net7.0\refint\CleanArchitectureApp.Application.dll
+C:\KIK-CleanArchitecture-DDD\CleanArchitectureApp\CleanArchitectureApp.Application\obj\Debug\net7.0\CleanArchitectureApp.Application.pdb
+C:\KIK-CleanArchitecture-DDD\CleanArchitectureApp\CleanArchitectureApp.Application\obj\Debug\net7.0\ref\CleanArchitectureApp.Application.dll

@@ -1,0 +1,14 @@
+<app-blank 
+    [pageTitle]="'Home Page'">
+ <app-card [cardTitle]="'Home Information'">
+  <h1>Home Page</h1>
+  <!-- <input type="search" placeholder="Aranacak değer..." class="form-control" [(ngModel)]="search"> -->
+  <h1>{{(number | currency: 'TRY':'symbol-narrow': '1.2-2') | trCurrency}}</h1>
+  <!-- <h1>{{number | trCurrency}}</h1> -->
+  <!-- <ul>
+    <li *ngFor="let t of todos | todo:search |todo2 ">
+        {{t.title}}
+    </li>
+  </ul> -->
+ </app-card> 
+</app-blank>

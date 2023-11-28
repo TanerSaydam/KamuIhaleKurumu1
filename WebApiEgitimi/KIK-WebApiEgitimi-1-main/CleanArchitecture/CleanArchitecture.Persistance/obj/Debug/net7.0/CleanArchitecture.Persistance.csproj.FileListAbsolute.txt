@@ -1,0 +1,17 @@
+C:\KIK\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net7.0\CleanArchitecture.Persistance.csproj.AssemblyReference.cache
+C:\KIK\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net7.0\CleanArchitecture.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\KIK\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net7.0\CleanArchitecture.Persistance.AssemblyInfoInputs.cache
+C:\KIK\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net7.0\CleanArchitecture.Persistance.AssemblyInfo.cs
+C:\KIK\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net7.0\CleanArchitecture.Persistance.csproj.CoreCompileInputs.cache
+C:\KIK\CleanArchitecture\CleanArchitecture.Persistance\bin\Debug\net7.0\CleanArchitecture.Persistance.deps.json
+C:\KIK\CleanArchitecture\CleanArchitecture.Persistance\bin\Debug\net7.0\CleanArchitecture.Persistance.runtimeconfig.json
+C:\KIK\CleanArchitecture\CleanArchitecture.Persistance\bin\Debug\net7.0\CleanArchitecture.Persistance.dll
+C:\KIK\CleanArchitecture\CleanArchitecture.Persistance\bin\Debug\net7.0\CleanArchitecture.Persistance.pdb
+C:\KIK\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net7.0\CleanArchitecture.Persistance.dll
+C:\KIK\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net7.0\refint\CleanArchitecture.Persistance.dll
+C:\KIK\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net7.0\CleanArchitecture.Persistance.pdb
+C:\KIK\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net7.0\CleanArchitecture.Persistance.genruntimeconfig.cache
+C:\KIK\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net7.0\ref\CleanArchitecture.Persistance.dll
+C:\KIK\CleanArchitecture\CleanArchitecture.Persistance\bin\Debug\net7.0\CleanArchitecture.Domain.dll
+C:\KIK\CleanArchitecture\CleanArchitecture.Persistance\bin\Debug\net7.0\CleanArchitecture.Domain.pdb
+C:\KIK\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net7.0\CleanArchitecture.Persistance.csproj.CopyComplete

@@ -1,0 +1,212 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\KIK-CleanArchitecture-DDD\\QuizApp\\QuizServer\\QuizServer.WebApi\\QuizServer.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\KIK-CleanArchitecture-DDD\\QuizApp\\QuizServer\\QuizServer.Domain\\QuizServer.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KIK-CleanArchitecture-DDD\\QuizApp\\QuizServer\\QuizServer.Domain\\QuizServer.Domain.csproj",
+        "projectName": "QuizServer.Domain",
+        "projectPath": "C:\\KIK-CleanArchitecture-DDD\\QuizApp\\QuizServer\\QuizServer.Domain\\QuizServer.Domain.csproj",
+        "packagesPath": "C:\\Users\\tugay\\.nuget\\packages\\",
+        "outputPath": "C:\\KIK-CleanArchitecture-DDD\\QuizApp\\QuizServer\\QuizServer.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tugay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KIK-CleanArchitecture-DDD\\QuizApp\\QuizServer\\QuizServer.Infrastructure\\QuizServer.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KIK-CleanArchitecture-DDD\\QuizApp\\QuizServer\\QuizServer.Infrastructure\\QuizServer.Infrastructure.csproj",
+        "projectName": "QuizServer.Infrastructure",
+        "projectPath": "C:\\KIK-CleanArchitecture-DDD\\QuizApp\\QuizServer\\QuizServer.Infrastructure\\QuizServer.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\tugay\\.nuget\\packages\\",
+        "outputPath": "C:\\KIK-CleanArchitecture-DDD\\QuizApp\\QuizServer\\QuizServer.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tugay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\KIK-CleanArchitecture-DDD\\QuizApp\\QuizServer\\QuizServer.Domain\\QuizServer.Domain.csproj": {
+                "projectPath": "C:\\KIK-CleanArchitecture-DDD\\QuizApp\\QuizServer\\QuizServer.Domain\\QuizServer.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KIK-CleanArchitecture-DDD\\QuizApp\\QuizServer\\QuizServer.WebApi\\QuizServer.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KIK-CleanArchitecture-DDD\\QuizApp\\QuizServer\\QuizServer.WebApi\\QuizServer.WebApi.csproj",
+        "projectName": "QuizServer.WebApi",
+        "projectPath": "C:\\KIK-CleanArchitecture-DDD\\QuizApp\\QuizServer\\QuizServer.WebApi\\QuizServer.WebApi.csproj",
+        "packagesPath": "C:\\Users\\tugay\\.nuget\\packages\\",
+        "outputPath": "C:\\KIK-CleanArchitecture-DDD\\QuizApp\\QuizServer\\QuizServer.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tugay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\KIK-CleanArchitecture-DDD\\QuizApp\\QuizServer\\QuizServer.Infrastructure\\QuizServer.Infrastructure.csproj": {
+                "projectPath": "C:\\KIK-CleanArchitecture-DDD\\QuizApp\\QuizServer\\QuizServer.Infrastructure\\QuizServer.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

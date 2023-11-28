@@ -1,0 +1,72 @@
+<h1>Product Page</h1>
+<button (click)="getAll()">Api İsteği Yap</button>
+<hr>
+<div class="col-3" style="float: right;">
+  <input type="search" [(ngModel)]="request.search" (keydown.enter)="getAll()" (search)="getAll()" class="form-control" placeholder="Aranacak değer...">
+</div>
+
+<table class="table table-hover table-bordered mt-4">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th (click)="getAll('Name')">
+        <i class="fa-solid fa-sort"></i>
+        Name
+      </th>
+      <th (click)="getAll('Price')">
+        <i class="fa-solid fa-sort"></i>
+        Price
+      </th>
+      <th>
+        Operations
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let product of response?.datas let i = index">
+      <td>{{i + ((response.pageNumber -1) * response.pageSize) + 1}}</td>
+      <td>{{product.name}}</td>
+      <td>{{product.price}}</td>
+      <td>
+        <button class="btn btn-outline-warning btn-sm">
+          <i class="fa fa-edit"></i>
+        </button>
+        <button class="btn btn-outline-danger btn-sm ms-1">
+          <i class="fa fa-trash"></i>
+        </button>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="col-1" style="float: left;">
+<select class="form-control"  [(ngModel)]="request.pageSize" (change)="getAll()">
+  <option>2</option>
+  <option>5</option>
+  <option>10</option>
+  <option>50</option>
+  <option>100</option>
+  <option>500</option>
+  <option>1000</option>
+</select>
+</div>
+
+<nav style="float: right;" aria-label="Page navigation example" *ngIf="response?.totalPages > 1">
+  <ul class="pagination justify-content-end">
+    <li class="page-item" [ngClass]="response?.isFirstPage ? 'disabled': ''">
+      <a class="page-link" (click)="getPage(1)">First</a>
+    </li>
+    <li class="page-item" [ngClass]="response?.isFirstPage ? 'disabled': ''">
+      <a class="page-link" (click)="getPage(request.pageNumber - 1)">Previous</a>
+    </li>
+    <li class="page-item" [ngClass]="request.pageNumber === n? 'active' : ''" *ngFor="let n of pageNumbers">
+      <a class="page-link" (click)="getPage(n)">{{n}}</a>
+    </li>   
+    <li class="page-item" [ngClass]="response?.isLastPage ? 'disabled': ''">
+      <a class="page-link"   (click)="getPage(request.pageNumber + 1)">Next</a>
+    </li>
+    <li class="page-item" [ngClass]="response?.isLastPage ? 'disabled': ''">
+      <a class="page-link"   (click)="getPage(response.totalPages)">Last</a>
+    </li>
+  </ul>
+</nav>

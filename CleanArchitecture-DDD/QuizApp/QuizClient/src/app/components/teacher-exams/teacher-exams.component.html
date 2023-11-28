@@ -1,0 +1,75 @@
+<h1>Exams</h1>
+<button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#addExamModal">
+    Add Exam
+</button>
+
+<table class="table table-hover table-bordered">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Exam Name</th>
+            <th>Operations</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let s of exams let i = index">
+            <td>{{i + 1}}</td>
+            <td>{{s.name}}</td>
+            <td>
+                <button class="btn btn-outline-primary btn-sm me-1" 
+                (click)="selectExam(s.id)"
+                data-bs-toggle="modal" data-bs-target="#studentsSelectionModal">
+                    Select Students
+                </button>
+                <button class="btn btn-outline-danger btn-sm">Remove</button>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="modal fade" id="addExamModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1 class="modal-title fs-5" id="exampleModalLabel">Modal title</h1>
+          <button type="button" id="addExamModalCloseBtn" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <form #form="ngForm" (ngSubmit)="save(form)">
+            <div class="modal-body">
+                <div class="form-group">
+                    <label for="name">Name</label>
+                    <input class="form-control" type="text" ngModel name="name" id="name" required minlength="3">
+                </div>
+            </div>
+            <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            <button type="submit" class="btn btn-primary">Save</button>
+            </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal fade" id="studentsSelectionModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1 class="modal-title fs-5" id="exampleModalLabel">Modal title</h1>
+          <button type="button" id="studentsSelectionModalCloseBtn" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+            <div class="form-group">
+                <label for="student">Students Selection</label>
+                <select class="form-control" multiple [(ngModel)]="chosenStudents">
+                    <option [value]="s.id" *ngFor="let s of students">
+                        {{s.name}}
+                    </option>
+                </select>
+            </div>
+            <div class="form-group mt-1">
+                <button class="btn btn-danger w-100" (click)="selectStudents()">Select</button>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>

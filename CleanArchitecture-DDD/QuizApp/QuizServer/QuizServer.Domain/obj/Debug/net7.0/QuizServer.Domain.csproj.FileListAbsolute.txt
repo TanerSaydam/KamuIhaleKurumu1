@@ -1,0 +1,11 @@
+C:\KIK-CleanArchitecture-DDD\QuizApp\QuizServer\QuizServer.Domain\bin\Debug\net7.0\QuizServer.Domain.deps.json
+C:\KIK-CleanArchitecture-DDD\QuizApp\QuizServer\QuizServer.Domain\bin\Debug\net7.0\QuizServer.Domain.dll
+C:\KIK-CleanArchitecture-DDD\QuizApp\QuizServer\QuizServer.Domain\bin\Debug\net7.0\QuizServer.Domain.pdb
+C:\KIK-CleanArchitecture-DDD\QuizApp\QuizServer\QuizServer.Domain\obj\Debug\net7.0\QuizServer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\KIK-CleanArchitecture-DDD\QuizApp\QuizServer\QuizServer.Domain\obj\Debug\net7.0\QuizServer.Domain.AssemblyInfoInputs.cache
+C:\KIK-CleanArchitecture-DDD\QuizApp\QuizServer\QuizServer.Domain\obj\Debug\net7.0\QuizServer.Domain.AssemblyInfo.cs
+C:\KIK-CleanArchitecture-DDD\QuizApp\QuizServer\QuizServer.Domain\obj\Debug\net7.0\QuizServer.Domain.csproj.CoreCompileInputs.cache
+C:\KIK-CleanArchitecture-DDD\QuizApp\QuizServer\QuizServer.Domain\obj\Debug\net7.0\QuizServer.Domain.dll
+C:\KIK-CleanArchitecture-DDD\QuizApp\QuizServer\QuizServer.Domain\obj\Debug\net7.0\refint\QuizServer.Domain.dll
+C:\KIK-CleanArchitecture-DDD\QuizApp\QuizServer\QuizServer.Domain\obj\Debug\net7.0\QuizServer.Domain.pdb
+C:\KIK-CleanArchitecture-DDD\QuizApp\QuizServer\QuizServer.Domain\obj\Debug\net7.0\ref\QuizServer.Domain.dll

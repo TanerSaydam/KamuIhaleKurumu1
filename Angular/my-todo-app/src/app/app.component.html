@@ -1,0 +1,12 @@
+<h1>Merhaba</h1>
+
+<app-app-add (setEvent)="setName($event)"></app-app-add>
+
+<div *ngIf="isUpdateFormActive">
+  <input type="text" [(ngModel)]="updateName">
+  <button (click)="cancel()">Cancel</button>
+  <button (click)="update()">Update</button>
+</div>
+
+<hr>
+<app-list [todos]="todos" (removeEvent)="removeByIndex($event)"></app-list>

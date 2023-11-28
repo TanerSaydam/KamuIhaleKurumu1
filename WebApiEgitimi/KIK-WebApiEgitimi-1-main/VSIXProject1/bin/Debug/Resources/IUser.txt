@@ -1,0 +1,5 @@
+﻿namespace VSIXProject1.Resources;
+
+public interface $UserName
+{
+}

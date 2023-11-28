@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OJEgszF7r8wXLTjAnnhdvtuNFoh2k+m74v1FG/PZkBI5kfI/qz4EJ9tOGWYobN81Wyx5qeJsOzVl40LIGNUQyQ==",
+  "success": true,
+  "projectFilePath": "C:\\KIK-CleanArchitecture-DDD\\Domain-DrivenDesign\\TacticalPattern.DomainEvents\\TacticalPattern.DomainEvents.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tugay\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\tugay\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\tugay\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

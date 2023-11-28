@@ -1,0 +1,5 @@
+<h1>App Component</h1>
+<input [(ngModel)]="name">
+<button (click)="send()">Send</button>
+<hr>
+<app-child [names]="names" [name]="name"></app-child>

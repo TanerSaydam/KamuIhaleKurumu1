@@ -1,0 +1,18 @@
+<ul>
+    <ng-container *ngFor="let n of todos let i = index">
+      <li *ngIf="n.completed">
+        {{n.title | uppercase}}
+        {{n.title | lowercase}}
+        {{n.title | titlecase}}
+        <span [ngStyle]="{'background-color': changeColorWithCompleted(n.completed)}">
+          {{n.completed ? 'Active' : 'Passive'}}
+        </span>
+       
+        <div *ngIf="!isUpdateFormActive">
+          <button (click)="get(i)">Update</button>
+          <button (click)="removeByIndex(i)">Remove</button>
+        </div>
+      </li>
+    </ng-container>
+  </ul>
+  

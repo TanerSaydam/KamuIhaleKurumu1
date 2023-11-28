@@ -1,0 +1,14 @@
+C:\KIK-CleanArchitecture-DDD\Domain-DrivenDesign\EntityTestConsoleApp\bin\Debug\net7.0\EntityTestConsoleApp.exe
+C:\KIK-CleanArchitecture-DDD\Domain-DrivenDesign\EntityTestConsoleApp\bin\Debug\net7.0\EntityTestConsoleApp.deps.json
+C:\KIK-CleanArchitecture-DDD\Domain-DrivenDesign\EntityTestConsoleApp\bin\Debug\net7.0\EntityTestConsoleApp.runtimeconfig.json
+C:\KIK-CleanArchitecture-DDD\Domain-DrivenDesign\EntityTestConsoleApp\bin\Debug\net7.0\EntityTestConsoleApp.dll
+C:\KIK-CleanArchitecture-DDD\Domain-DrivenDesign\EntityTestConsoleApp\bin\Debug\net7.0\EntityTestConsoleApp.pdb
+C:\KIK-CleanArchitecture-DDD\Domain-DrivenDesign\EntityTestConsoleApp\obj\Debug\net7.0\EntityTestConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\KIK-CleanArchitecture-DDD\Domain-DrivenDesign\EntityTestConsoleApp\obj\Debug\net7.0\EntityTestConsoleApp.AssemblyInfoInputs.cache
+C:\KIK-CleanArchitecture-DDD\Domain-DrivenDesign\EntityTestConsoleApp\obj\Debug\net7.0\EntityTestConsoleApp.AssemblyInfo.cs
+C:\KIK-CleanArchitecture-DDD\Domain-DrivenDesign\EntityTestConsoleApp\obj\Debug\net7.0\EntityTestConsoleApp.csproj.CoreCompileInputs.cache
+C:\KIK-CleanArchitecture-DDD\Domain-DrivenDesign\EntityTestConsoleApp\obj\Debug\net7.0\EntityTestConsoleApp.dll
+C:\KIK-CleanArchitecture-DDD\Domain-DrivenDesign\EntityTestConsoleApp\obj\Debug\net7.0\refint\EntityTestConsoleApp.dll
+C:\KIK-CleanArchitecture-DDD\Domain-DrivenDesign\EntityTestConsoleApp\obj\Debug\net7.0\EntityTestConsoleApp.pdb
+C:\KIK-CleanArchitecture-DDD\Domain-DrivenDesign\EntityTestConsoleApp\obj\Debug\net7.0\EntityTestConsoleApp.genruntimeconfig.cache
+C:\KIK-CleanArchitecture-DDD\Domain-DrivenDesign\EntityTestConsoleApp\obj\Debug\net7.0\ref\EntityTestConsoleApp.dll

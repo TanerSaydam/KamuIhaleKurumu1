@@ -1,0 +1,12 @@
+C:\KIK\MyFirstNugetPackage\bin\Debug\net7.0\MyFirstNugetPackage.deps.json
+C:\KIK\MyFirstNugetPackage\bin\Debug\net7.0\MyFirstNugetPackage.dll
+C:\KIK\MyFirstNugetPackage\bin\Debug\net7.0\MyFirstNugetPackage.pdb
+C:\KIK\MyFirstNugetPackage\obj\Debug\net7.0\MyFirstNugetPackage.csproj.AssemblyReference.cache
+C:\KIK\MyFirstNugetPackage\obj\Debug\net7.0\MyFirstNugetPackage.GeneratedMSBuildEditorConfig.editorconfig
+C:\KIK\MyFirstNugetPackage\obj\Debug\net7.0\MyFirstNugetPackage.AssemblyInfoInputs.cache
+C:\KIK\MyFirstNugetPackage\obj\Debug\net7.0\MyFirstNugetPackage.AssemblyInfo.cs
+C:\KIK\MyFirstNugetPackage\obj\Debug\net7.0\MyFirstNugetPackage.csproj.CoreCompileInputs.cache
+C:\KIK\MyFirstNugetPackage\obj\Debug\net7.0\MyFirstNugetPackage.dll
+C:\KIK\MyFirstNugetPackage\obj\Debug\net7.0\refint\MyFirstNugetPackage.dll
+C:\KIK\MyFirstNugetPackage\obj\Debug\net7.0\MyFirstNugetPackage.pdb
+C:\KIK\MyFirstNugetPackage\obj\Debug\net7.0\ref\MyFirstNugetPackage.dll

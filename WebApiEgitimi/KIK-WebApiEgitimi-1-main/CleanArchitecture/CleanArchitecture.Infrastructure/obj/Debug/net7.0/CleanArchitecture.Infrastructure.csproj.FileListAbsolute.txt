@@ -1,0 +1,17 @@
+C:\KIK\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net7.0\CleanArchitecture.Infrastructure.deps.json
+C:\KIK\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net7.0\CleanArchitecture.Infrastructure.dll
+C:\KIK\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net7.0\CleanArchitecture.Infrastructure.pdb
+C:\KIK\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net7.0\CleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\KIK\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net7.0\CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+C:\KIK\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net7.0\CleanArchitecture.Infrastructure.AssemblyInfo.cs
+C:\KIK\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net7.0\CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+C:\KIK\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net7.0\CleanArchitecture.Infrastructure.dll
+C:\KIK\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net7.0\refint\CleanArchitecture.Infrastructure.dll
+C:\KIK\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net7.0\CleanArchitecture.Infrastructure.pdb
+C:\KIK\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net7.0\ref\CleanArchitecture.Infrastructure.dll
+C:\KIK\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net7.0\CleanArchitecture.Application.dll
+C:\KIK\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net7.0\CleanArchitecture.Domain.dll
+C:\KIK\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net7.0\CleanArchitecture.Application.pdb
+C:\KIK\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net7.0\CleanArchitecture.Domain.pdb
+C:\KIK\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net7.0\CleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+C:\KIK\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net7.0\CleanArchitecture.Infrastructure.csproj.CopyComplete
